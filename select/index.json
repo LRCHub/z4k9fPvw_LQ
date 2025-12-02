@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "幾望の月",
+  "base_artist": "なきゃむりゃ",
+  "createdAt": "2025-12-02T13:12:57.200706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幾望の月",
+      "artist": "なきゃむりゃ",
+      "has_synced": false,
+      "path": "select/01_幾望の月_なきゃむりゃ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幾望の月",
+      "artist": "なきゃむり",
+      "has_synced": false,
+      "path": "select/02_幾望の月_なきゃむり.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幾望の月",
+      "artist": "Nakyamurya",
+      "has_synced": false,
+      "path": "select/03_幾望の月_Nakyamurya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幾望の月 - off vocal - limiterOFF",
+      "artist": "GYARI、なきゃむりゃ",
+      "has_synced": true,
+      "path": "select/04_幾望の月_-_off_vocal_-_limiterOFF_GYARI、なきゃむりゃ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幾望の月",
+      "artist": "GYARI、なきゃむりゃ",
+      "has_synced": true,
+      "path": "select/05_幾望の月_GYARI、なきゃむりゃ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幾望の月",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/06_幾望の月_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "幾望の月",
+      "artist": "なきゃむりゃ",
+      "has_synced": true,
+      "path": "select/07_幾望の月_なきゃむりゃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幾望の月",
+      "artist": "なきゃむりゃ",
+      "has_synced": false,
+      "path": "select/pl_01_幾望の月_なきゃむりゃ.txt"
+    }
+  ]
+}
